@@ -1,5 +1,5 @@
 {
-    "name": "custom/repository-service",
+    "name": "yassinds22/repository-service",
     "description": "A Laravel package that automatically creates repositories and services folders and provides command generators.",
     "type": "library",
     "license": "MIT",
